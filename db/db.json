@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Marudani",
+      "singer": "A. R. Rahman",
+      "genre": "Romantic",
+      "imgUrl": "img/Marudani.jpg",
+      "songUrl": "Songs/Marudaani.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Malare",
+      "singer": "Vijay Yesudas",
+      "genre": "Romantic",
+      "imgUrl": "img/Malare.jpg",
+      "songUrl": "Songs/Malare.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Irupathu Kodi",
+      "singer": "Hariharan",
+      "genre": "Romantic",
+      "imgUrl": "img/Irupathu Kodi.jpg",
+      "songUrl": "Songs/Irupathu Kodi.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Saari Duniya",
+      "singer": "B Praak",
+      "genre": "Emotional",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Bol Do Na Zara",
+      "singer": "Armaan Malik",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "songUrl": "Songs/Bol Do Na Zara.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Chaleya",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "songUrl": "Songs/chaleya.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Humnava Mere",
+      "singer": "Jubin Nautiyal",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
+      "songUrl": "Songs/Humnava Mere.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Vizhigalin Aruginil",
+      "singer": "Ramesh Vinayakam",
+      "genre": "Romantic",
+      "imgUrl": "img/Vizhigalin Aruginil.jpg",
+      "songUrl": "Songs/Vizhigalin Aruginil.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 1,
+      "title": "Marudani",
+      "imgUrl": "img/Marudani.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Marudaani.mp3",
+      "singer": "A. R. Rahman",
+      "id": 4
+    },
+    {
+      "itemId": 2,
+      "title": "Malare",
+      "imgUrl": "img/Malare.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Malare.mp3",
+      "singer": "Vijay Yesudas",
+      "id": 5
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 1,
+      "title": "Marudani",
+      "imgUrl": "img/Marudani.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Marudaani.mp3",
+      "singer": "A. R. Rahman",
+      "id": 12
+    },
+    {
+      "itemId": 2,
+      "title": "Malare",
+      "imgUrl": "img/Malare.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Malare.mp3",
+      "singer": "Vijay Yesudas",
+      "id": 13
+    },
+    {
+      "itemId": 8,
+      "title": "Vizhigalin Aruginil",
+      "imgUrl": "img/Vizhigalin Aruginil.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Vizhigalin Aruginil.mp3",
+      "singer": "Ramesh Vinayakam",
+      "id": 14
+    }
+  ]
+}
